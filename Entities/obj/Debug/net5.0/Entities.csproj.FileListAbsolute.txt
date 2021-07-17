@@ -2,7 +2,6 @@ C:\Users\Wilson\source\repos\Ecommerce\Entities\bin\Debug\net5.0\Entities.deps.j
 C:\Users\Wilson\source\repos\Ecommerce\Entities\bin\Debug\net5.0\Entities.dll
 C:\Users\Wilson\source\repos\Ecommerce\Entities\bin\Debug\net5.0\ref\Entities.dll
 C:\Users\Wilson\source\repos\Ecommerce\Entities\bin\Debug\net5.0\Entities.pdb
-C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
 C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
 C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.csproj
 C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.dll
 C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\ref\Entities.dll
 C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Wilson\source\repos\Ecommerce\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
